@@ -1,4 +1,4 @@
-# Data Preprocessing Projects
+# Data Preprocessing
 
 Bu repoda Python ile veri ön işleme (data preprocessing) adımlarını içeren projeler yer almaktadır. 
 
