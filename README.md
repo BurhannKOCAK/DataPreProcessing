@@ -32,9 +32,3 @@ Veri bilimi ve makine öğrenimi projelerinde sıkça karşılaşılan eksik ver
 
 ---
 
-## Kullanım
-
-1. Projeyi klonla:  
-   ```bash
-   git clone https://github.com/kullanici-adin/data-preprocessing-projects.git
-
