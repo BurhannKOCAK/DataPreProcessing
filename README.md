@@ -8,9 +8,9 @@ Veri bilimi ve makine öğrenimi projelerinde sıkça karşılaşılan eksik ver
 
 ## İçindekiler
 
-1. [Eksik Veri Doldurma (Missing Data Handling)](./01-missing-data-handling/)
-2. [Kategorik Verilerin Kodlanması (Categorical Encoding)](./02-categorical-encoding/)
-3. [Özellik Ölçeklendirme (Feature Scaling)](./03-feature-scaling/)
+1. Eksik Veri Doldurma (Missing Data Handling)  
+2. Kategorik Verilerin Kodlanması (Categorical Encoding)  
+3. Özellik Ölçeklendirme (Feature Scaling)  
 
 ---
 
@@ -37,3 +37,4 @@ Veri bilimi ve makine öğrenimi projelerinde sıkça karşılaşılan eksik ver
 1. Projeyi klonla:  
    ```bash
    git clone https://github.com/kullanici-adin/data-preprocessing-projects.git
+
