@@ -1,6 +1,6 @@
 # Data Preprocessing
 
-Bu repoda Python ile veri ön işleme (data preprocessing) adımlarını içeren projeler yer almaktadır. 
+Bu repoda Python ile veri ön işleme (data preprocessing) adımlarını içeren kodlar yer almaktadır. 
 
 Veri bilimi ve makine öğrenimi projelerinde sıkça karşılaşılan eksik verilerin doldurulması, kategorik verilerin kodlanması ve özellik ölçeklendirme gibi temel işlemler örneklerle gösterilmektedir.
 
